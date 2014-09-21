@@ -1,0 +1,500 @@
+    3  top -o cpu
+    4  ls -ltr
+    5  echo $PATH
+    6  npm
+    7  ant -version
+    8  ruby
+    9  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
+   10  brew doctor
+   11  brew update
+   12  brew install ant
+   13  java -version
+   14  java -version
+   15  java -version
+   16  sudo npm install -g phonegap
+   17  cd
+   18  ls -ltr
+   19  mkdir Android
+   20  mv Downloads/adt-bundle-mac-x86_64-20140702.zip Android/
+   21  cd Android/
+   22  ls
+   23  unzip adt-bundle-mac-x86_64-20140702.zip 
+   24  ls -ltr
+   25  mv adt-bundle-mac-x86_64-20140702 adt-bundle-mac-x86_64
+   26  rm adt-bundle-mac-x86_64-20140702.zip 
+   27  cd adt-bundle-mac-x86_64/
+   28  ls
+   29  cd eclipse/
+   30  ls
+   31  ./Eclipse.app
+   32  Eclipse
+   33  ./Eclipse
+   34  ls -ltr
+   35  open Eclipse.app/
+   36  cd
+   37  ls
+   38  df -g
+   39  phonegap create my-app
+   40  cd my-app/
+   41  phonegap run android
+   42  echo $PATH
+   43  ls
+   44  cd
+   45  ls
+   46  cd -
+   47  pwd
+   48  cd ..
+   49  ls
+   50  cd Android
+   51  ls
+   52  cd adt-bundle-mac-x86_64/
+   53  ls
+   54  cd sdk
+   55  ld
+   56  ls
+   57  cd tools
+   58  ls
+   59  pwd
+   60  echo $PATH
+   61  export PATH=$PATH
+   62  echo $PATH
+   63  export PATH=$PATH;/Users/macmini/Android/adt-bundle-mac-x86_64/sdk/tools/
+   64  export PATH=$PATH:/Users/macmini/Android/adt-bundle-mac-x86_64/sdk/tools/:/Users/macmini/Android/adt-bundle-mac-x86_64/sdk/platform-tools/
+   65  echo $PATH
+   66  cd my-app
+   67  phonegap run android
+   68  pwd
+   69  cd
+   70  cd my-app
+   71  phonegap run android
+   72  android avd
+   73  phonegap run android
+   74  android avd
+   75  phonegap run android
+   76  android avd &
+   77  ls
+   78  cd www
+   79  ls
+   80  vi config.xml 
+   81  pwd
+   82  cd
+   83  vi .vimrc
+   84  cd -
+   85  vi config.xml 
+   86  cd
+   87  vi .vimrc
+   88  cd -
+   89  vi config.xml 
+   90  history
+   91  phonegap run android
+   92  pwd
+   93  ls
+   94  cd ..
+   95  ls
+   96  pwd
+   97  cd www
+   98  ls
+   99  vi index.html 
+  100  ls -ltr
+  101  cd js
+  102  ls
+  103  vim index.js 
+  104  pwd
+  105  cd ..
+  106  cd ..
+  107  sl
+  108  ls
+  109  pwd
+  110  history
+  111  cd my-app/
+  112  ls
+  113  cd www
+  114  ls
+  115  cd ..
+  116  cd app
+  117  cd res
+  118  ls
+  119  cd ..
+  120  pwd
+  121  cd
+  122  vi .bashrc
+  123  ls
+  124  ls -la
+  125  history | grep -i path
+  126  vi .bashrc
+  127  exit
+  128  echo $PATH
+  129  source .bashrc
+  130  vi .bashrc
+  131  source .bashrc
+  132  echo $PATH
+  133  vi .bashrc
+  134  vi .bash_profile
+  135  exit
+  136  echo $PATH
+  137  source .bashrc
+  138  echo $PATH
+  139  exit
+  140  echo $PATH
+  141  source .bashrc
+  142  l s-ltr
+  143  ls -ltr
+  144  cd my-app\
+  145  cd my-app
+  146  history
+  147  phonegap run android
+  148  cd
+  149  source .bashrc
+  150  exho $PATH
+  151  echo $PATH
+  152  cd my-app
+  153  phonegap run android
+  154  cd /usr/local/bin/
+  155  ls
+  156  cd
+  157  vi .bashrc
+  158  cd
+  159  source .bashrc
+  160  cd my-app
+  161  phonegap run android
+  162  echo $PATH
+  163  exit
+  164  echo $PATH
+  165  source .bashrc
+  166  echo $PATH
+  167  cd my-app
+  168  phonegap run android
+  169  ls -ltr
+  170  cd www
+  171  ls
+  172  vim index.html 
+  173  vi js/index.js 
+  174  cd ..
+  175  pwd
+  176  cd
+  177  cd Android/
+  178  ls
+  179  cd adt-bundle-mac-x86_64/
+  180  ls
+  181  cd eclipse/
+  182  ls
+  183  open Eclipse.app/
+  184  cd
+  185  cd my-app/
+  186  phonegap run android
+  187  pwd
+  188  cd www
+  189  ls -ltr
+  190  vi index.html 
+  191  vi js/index.js 
+  192  pwd
+  193  cd ..
+  194  pwd
+  195  cd platforms/
+  196  cd android/
+  197  ls
+  198  vim AndroidManifest.xml 
+  199  phonegap run android
+  200  phonegap run android
+  201  phonegap run android
+  202  phonegap run android
+  203  adb devices
+  204  adb
+  205  adb -a
+  206  pwd
+  207  ls -ltr
+  208  cd ant-build/
+  209  ls
+  210  ls -ltr
+  211  cat R.txt 
+  212  cd
+  213  ls -latr
+  214  rm -rf my-app
+  215  cd
+  216  phonegap create my-app
+  217  cd my-app
+  218  phonegap run android
+  219  ls
+  220  cd www
+  221  ls
+  222  cd js
+  223  ls
+  224  vim index.js 
+  225  pwd
+  226  cd ..
+  227  cd ..
+  228  phonegap run android
+  229  phonegap run android
+  230  phonegap run android
+  231  vim www/index.html 
+  232  vim www/js/index.js 
+  233  phonegap run android
+  234  phonegap run android
+  235  exit
+  236  df -h
+  237  /Users/macmini/Downloads/bmlt-bmlt-ios-app-f38f0a133bb6/README ; exit;
+  238  cd Downloads/
+  239  ls
+  240  cd bmlt-bmlt-ios-app-f38f0a133bb6
+  241  ls
+  242  cat README 
+  243  ls -ltr
+  244  cd devl
+  245  cd dev
+  246  ls
+  247  pwd
+  248  history
+  249  cd my-app/
+  250  ls
+  251  phonegap run android
+  252  android
+  253  which android
+  254  history
+  255  source .bashrc
+  256  echo $PATH
+  257  cd my-app/
+  258  ls
+  259  cd www
+  260  ls
+  261  vim index.html 
+  262  cd js
+  263  ls
+  264  vim index.js 
+  265  pwd
+  266  cd ..
+  267  pwd
+  268  cd ..
+  269  phonegap run android
+  270  android
+  271  cat .bashrc
+  272  cat ˜/.bashrc
+  273  cd
+  274  cat .bashrc
+  275  cd -
+  276  phonegap run android
+  277  pwd
+  278  ls -ltr
+  279  cd www
+  280  ls
+  281  cd ..
+  282  ls
+  283  npm update -g phonegap
+  284  sudo su -
+  285  pwd
+  286  phonegap platform update android
+  287  cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
+  288  su -
+  289  sudo su -
+  290  sudo chown -R $USER /usr/local
+  291  sudo chmod 0755 /usr/local
+  292  cordova
+  293  exit
+  294  sudo chown -R $USER /usr/local
+  295  sudo chmod -R 0755 /usr/local/
+  296  npm install -g cordova
+  297  sudo su -
+  298  su -
+  299  cordova 
+  300  cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
+  301  pwd
+  302  cd my-app/
+  303  cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
+  304  sudo cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
+  305  cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
+  306  ls
+  307  ls
+  308  cd www/
+  309  ls
+  310  cd res
+  311  ls
+  312  cd ..
+  313  pwd
+  314  cd ..
+  315  find . -name config.xml -print
+  316  cd platforms/android/res/xml/config.xml 
+  317  vi platforms/android/res/xml/config.xml 
+  318  pwd
+  319  exit
+  320  pwd
+  321  ls
+  322  cd Android
+  323  ls
+  324  cd adt-bundle-mac-x86_64/
+  325  ls
+  326  cd sdk
+  327  ls
+  328  cd tools/
+  329  ls
+  330  ls -latr
+  331  l s-ltr
+  332  ls -ltr
+  333  ls -latr
+  334  date
+  335  pwd
+  336  cd ..
+  337  cd platform-tools/
+  338  ls
+  339  ls -latr
+  340  cd ..
+  341  pwd
+  342  ls -latr
+  343  cd temp
+  344  ls
+  345  ls -la
+  346  cd ../extras/
+  347  ls -latr
+  348  cd intel/
+  349  ls
+  350  ls -l
+  351  cd Hardware_Accelerated_Execution_Manager/
+  352  ls
+  353  start IntelHAXM_1.0.8.dmg 
+  354  open IntelHAXM_1.0.8.dmg 
+  355  cd my-app/platforms/android/res/xml/
+  356  vim config.xml 
+  357  pwd
+  358  cd ../../../..
+  359  pwd
+  360  source .bashrc
+  361  cd
+  362  source .bashrc
+  363  cd -
+  364  phonegap run android
+  365  exit
+  366  source .bashrc
+  367  android 
+  368  adb
+  369  pwd
+  370  cd my-app/
+  371  phonegap run android
+  372  pwd
+  373  ls -ltr
+  374  cd www
+  375  ls
+  376  vi config.xml 
+  377  pwd
+  378  cd ..
+  379  ls
+  380  ls -l
+  381  cd hooks
+  382  ls
+  383  vi README.md 
+  384  ls -ltr
+  385  cd ..
+  386  ls
+  387  cd www
+  388  ls
+  389  phonegap run android
+  390  id
+  391  pwd
+  392  cd ..
+  393  pwd
+  394  phonegap run android
+  395  cd
+  396  \source .bashrc
+  397  source .bashrc
+  398  cd -
+  399  phonegap run android
+  400  pwd
+  401  ls -ltr
+  402  cd www
+  403  ls
+  404  vi spec
+  405  vi spec.html 
+  406  find . -exec grep -i helloworld {} \; -print
+  407  vi config.xml 
+  408  pwd
+  409  cd ..
+  410  find . -exec grep -i helloworld {} \; -print
+  411  find . -type f -exec grep -i helloworld {} \; -print
+  412  cd platforms/
+  413  cd android/
+  414  ls
+  415  vim AndroidManifest.xml 
+  416  pwd
+  417  cd ../..
+  418  phonegap run android
+  419  phonegap run android
+  420  pwd
+  421  ls -l
+  422  cd www
+  423  ls -ltr
+  424  vim index.html 
+  425  ls -ltr
+  426  pwd
+  427  cd js
+  428  ls
+  429  vim index.js 
+  430  cd ../..
+  431  ls -ltr
+  432  vi npm-debug.log 
+  433  clear
+  434  clear
+  435  phonegap run android
+  436  clear
+  437  phonegap run android
+  438  pwd
+  439  ls -ltr
+  440  cd www
+  441  ls
+  442  vim config.xml 
+  443  vi index.html 
+  444  vi spec.html 
+  445  pwd
+  446  cd ..
+  447  phonegap run android
+  448  pwd
+  449  build --release
+  450  cordova build android --release
+  451  cd platforms/android/bin
+  452  cd platforms/android/ant-build/
+  453  ls -latr
+  454  ls -lh
+  455  ls -lhtra
+  456  pwd
+  457  cd ..
+  458  ls -ltr
+  459  pwd
+  460  vi ant.properties
+  461  cd
+  462  keytool -genkey -v -keystore my-release-key.keystore -alias release-key -keyalg RSA -keysize 2048 -validity 10000
+  463  ls -latr
+  464  cp my-release-key.keystore /Users/macmini/Google\ Drive/NA/website/Android/
+  465  pwd
+  466  cd my-app/
+  467  ls
+  468  cd platforms/android/
+  469  ls
+  470  cd ant-build/
+  471  ls
+  472  ls -latr
+  473  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /Users/macmini/my-release-key.keystore ./HelloWorld-release-unsigned.apk NA-Ireland
+  474  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /Users/macmini/my-release-key.keystore ./HelloWorld-release-unsigned.apk release-key
+  475  ls -latr
+  476  date
+  477  jarsigner -verify -verbose -certs HelloWorld-release-unsigned.apk
+  478  echo $PATH
+  479  pwd
+  480  ls
+  481  cd ..
+  482  cd ..
+  483  cd ..
+  484  cd ..
+  485  find . -name zipalign -print
+  486  cd my-app/platforms/android/ant-build/
+  487  /Users/macmini/Android/adt-bundle-mac-x86_64/sdk/build-tools/android-4.4W/zipalign -v 4 HelloWorld-release-unsigned.apk HelloWorld-release.apk
+  488  ls -latr
+  489  exit
+  490  cd my-app/
+  491  cd res
+  492  mkdir res
+  493  cd res/
+  494  mkdir icon
+  495  cd icon
+  496  mkdir ios
+  497  cd ios
+  498  ls -ltr
+  499  cp /icon.png .
+  500  mv icon.png icon-72.png
+  501  history
+  502  history > commands.txt
